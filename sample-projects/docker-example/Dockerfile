@@ -1,1 +1,1 @@
-FROM ${SERVER_NAME}.jfrog.io/${VIRTUAL_REPO_NAME}/ubuntu:16.04
+FROM pbharti20.jfrog.io/default-docker-virtual/ubuntu:16.04
